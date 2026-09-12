@@ -86,6 +86,8 @@ footer{border-top:1px solid var(--line);padding:24px 5vw 30px;display:flex;justi
 .close:hover{background:var(--white);color:#111}
 #pdfFrame{display:block;width:100%;height:calc(100% - 52px);border:0;background:#fff}
 @media(max-width:600px){.video-gallery{grid-template-columns:1fr}.video-gallery .instagram-card,.video-gallery .transit-card,.video-gallery .youtube-card{grid-column:auto!important;grid-row:auto!important;margin-left:0!important;max-width:none;width:100%}.modal{padding:10px}.modal-panel{width:96vw;height:92vh}.modal-toolbar{padding-left:12px}.modal-toolbar span{max-width:45%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.modal-toolbar>div{gap:8px}}
+
+
 .section-number {
   display: none !important;
 }
